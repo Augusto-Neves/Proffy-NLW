@@ -1,13 +1,9 @@
 # Proffy
 > Projeto desenvolvido durante a sengunda edição da NEXT LEVEL WEEK da Rocketseat.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 > Durante essa semana foi desenvolvida essa aplicação que é uma plataforma de estudos online que conecta professores a alunos que querem aulas.
 
-![](./public/images/proffy.png)
+<img alt="Proffy" src="public/images/proffy.PNG"></img>
 
 # Instalação
 
