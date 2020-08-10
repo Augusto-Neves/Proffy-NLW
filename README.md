@@ -24,12 +24,35 @@ Primeiro de tudo você precisa ter o `node` e `yarn`(ou `npm`) instalado na sua 
 Então clone o repositório para sua máquina.
 ```
 git clone https://github.com/Augusto-Neves/Proffy-NLW
-
 ```
 # Rodando a Aplicação
 
-<p>Abra o terminal e vá p </p>
+<p>Depois de clonar o repositório. Abra o terminal e vá para a pasta:</p>
 
+```
+$ cd Proffy-NLW
+```
+
+<p>Instale as dependências</p>
+
+```
+$ npm install 
+
+ou
+
+$ yarn install
+```
+
+<p>Depois rode o server.js</p>
+
+```
+$ npm run dev
+```
+<p>Agora é só abrir o navegador e ir para o seguinte endereço:</p>
+
+```
+localhost:5500
+```
 
 # Licensa
 <p>O projeto esta debaixo da licensa MIT</p>
