@@ -19,7 +19,7 @@
 
 # Instalação
 
-Primeiro de tudo você precisa ter o `node` e `yarn`(ou `npm`) instalado na sua máquina. 
+Primeiro de tudo você precisa ter o `node` e `npm`(ou `yarn`) instalado na sua máquina. 
 
 Então clone o repositório para sua máquina.
 ```
